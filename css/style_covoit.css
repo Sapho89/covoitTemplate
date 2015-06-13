@@ -1,0 +1,23 @@
+/* 
+    Document   : style.css
+    Created on : 12 juin 2015, 23:35:53
+    Author     : Toshiba_Cecile
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+body{
+    background-color: #ecf0f1;
+}
+
+.blockquote-style-1{
+      background-color: #fff;
+}
+
+
+.service-item-box-photo_profil{
+  text-align: center;
+  background-color: #fff;
+  border-radius: 4px;
+  margin-top: 40px;
+}

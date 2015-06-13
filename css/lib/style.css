@@ -74,8 +74,6 @@
 
 .section-wrap {
   padding: 120px 0;
-  background-color: #FFF;
-  
 }
 
 .color-white {
@@ -1544,7 +1542,7 @@ ul.recent-works {
   font-size: 16px;
 }
 
-.service-item-box .icon {
+.service-item-box i {
   display: block;
   position: absolute;
   top: 0;
@@ -1574,19 +1572,19 @@ ul.recent-works {
   color: #92d11d;
 }
 
-.service-item-box.first .icon {
+.service-item-box.first i {
   background-color: #7248f5;
 }
 
-.service-item-box.second .icon {
+.service-item-box.second i {
   background-color: #30c3ff;
 }
 
-.service-item-box.third .icon {
+.service-item-box.third i {
   background-color: #f05135;
 }
 
-.service-item-box.fourth .icon {
+.service-item-box.fourth i {
   background-color: #92d11d;
 }
 
@@ -2076,7 +2074,7 @@ ul.recent-works {
 /*Page Title / Breadcrumbs*/
 
 #page-title {
-  padding: 5px 0;
+  padding: 60px 0;
   background-image: url(../upload/breadcrumbs_bg.jpg);
   background-position: center center;
   background-repeat: repeat;
